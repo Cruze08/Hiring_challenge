@@ -1,3 +1,6 @@
+# first of all I convert the input.xml file into xlsx or xls at https://conversiontools.io/convert/xml-to-excel
+#then I install latest version of pandas which is 2.0.3 and then I install openpyxl library for read excel file latest version is 3.1.2
+
 import pandas as pd
 
 # Replace 'your_file.xlsx' with the actual path to your Excel file
